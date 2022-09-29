@@ -1,0 +1,51 @@
+.jumbotron {
+  /* Choisis la hauteur ici */
+  height: 500px;
+
+  /* Tu lui donnes une image de background */
+  background-image: url("images/surf.jpeg");
+
+  /* Centre l'image et la met bien sur tous les écrans */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.logo1 {
+    height: 100px;
+    width: 100px;
+
+}
+
+.logo2 {
+    height: 100px;
+    width: 100px;
+
+}
+
+.logo3 {
+    height: 100px;
+    width: 100px;
+}
+
+.pictureclient1 {
+    height: 450px;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+.card1 {
+    min-width: 450px;
+}
+
+.pictureclient2 {
+    height: 450px;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+.card2 {
+    min-width: 450px;
+}
